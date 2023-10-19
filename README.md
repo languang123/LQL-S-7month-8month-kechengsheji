@@ -1,2 +1,4 @@
 # -
 2023年七月-八月课程设计，使用vue3框架+elementplus制作前段菜单页面，后端采用mybatis和springboot，传输接口使用JSON方法。
+
+在Vue 3中，node_modules文件夹是用于存放项目所依赖的第三方包的文件夹。当你使用npm或者Yarn等包管理工具安装依赖时，这些依赖会被下载并存放在node_modules文件夹中。这些第三方包可能包括Vue的核心库、插件、工具库等。通过将依赖项放置在node_modules目录中，你可以轻松地引用这些包，并在项目中使用它们的功能。
